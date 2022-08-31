@@ -23,6 +23,7 @@ ContentNewTask=${ShellDir}/new_task
 ContentDropTask=${ShellDir}/drop_task
 SendCount=${ShellDir}/send_count
 isTermux=${ANDROID_RUNTIME_ROOT}${ANDROID_ROOT}
+# sssss
 ShellURL=https://github.com/501658362/jd-base-1.git
 ScriptsURL=https://github.com/KingRan/KR.git
 
